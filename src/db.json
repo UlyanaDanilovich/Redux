@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "0f50",
+      "email": "user@gmail.com",
+      "password": "nbhjsjshbjf767GGFHSNCJ7ysv",
+      "createdAt": 1731857258728
+    },
+    {
+      "id": "c281",
+      "email": "user555@gmail.com",
+      "password": "user555@gmail.comA",
+      "createdAt": 1731858095531
+    },
+    {
+      "id": "56de",
+      "email": "user559@gmail.com",
+      "password": "user559@gmail.comA",
+      "createdAt": 1732559628746
+    }
+  ],
+  "notes": [
+    {
+      "id": "bc1a",
+      "title": "berherhr",
+      "body": "",
+      "createdAt": 1731858061988,
+      "authorId": "0f50"
+    },
+    {
+      "id": "1dd9",
+      "title": "567ggg",
+      "body": "",
+      "createdAt": 1732559558875,
+      "authorId": "c281"
+    },
+    {
+      "id": "e44c",
+      "title": "fsbrb",
+      "body": "descr",
+      "createdAt": 1732559568697,
+      "authorId": "c281"
+    },
+    {
+      "id": "e54d",
+      "title": "fffdddd",
+      "body": "fffff",
+      "createdAt": 1732559634418,
+      "authorId": "56de"
+    },
+    {
+      "id": "dfe6",
+      "title": "rrr",
+      "body": "",
+      "createdAt": 1732559640058,
+      "authorId": "56de"
+    },
+    {
+      "id": "49b8",
+      "title": "tttrrr",
+      "body": "",
+      "createdAt": 1732650011560,
+      "authorId": "c281"
+    }
+  ]
+}
